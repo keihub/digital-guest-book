@@ -4,7 +4,7 @@
 
 1. `create_qr_code.py`のname_listにqr code化したい文字列を入力
    - 入力形式: "name,address"という形式で入力
-2. `python3 create_qr_code.py`を実行
+2. `python3 ./app/create_qr_code/create_qr_code.py`を実行
 3. `qr_code_image`ディレクトリにQrコードが生成される
 4. ユーザーへ配布する
 
